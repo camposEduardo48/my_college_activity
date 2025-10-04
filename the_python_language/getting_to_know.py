@@ -71,7 +71,7 @@
 #     print(f'{l} - Carneirinhos')
 
 # contando de 1 á 100, pulando de 10 em 10
-for l in range(0, 110, 10):
-  if l <= 100:
-    print(f'{l} - Carneirinhos')
+# for l in range(0, 110, 10):
+#   if l <= 100:
+#     print(f'{l} - Carneirinhos')
 

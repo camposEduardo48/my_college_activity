@@ -5,4 +5,4 @@ print("Hello World!")
 
 name = input('Digite um nome: ')
 
-print(name, 'Seja bem-vindo ao Python3.') # exibir nome digitado pelo cliente
+print(name, 'Seja bem-vindo ao Python3.') # exibir nome digitado pelo cliente 
